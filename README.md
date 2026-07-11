@@ -26,15 +26,15 @@ Teniendo esto en cuenta, el curso se compone de herramientas de muchos tipos par
 
 
 
-Digitalidad
+- Digitalidad
 
-Ciencia social computacional
+- Ciencia social computacional
 
-Análisis de redes sociales
+- Análisis de redes sociales
 
-Análisis de plataformas y algoritmos
+- Análisis de plataformas y algoritmos
 
-Métodos cualitativos de análisis digital: Etnografía virtual, netnografía
+- Métodos cualitativos de análisis digital: Etnografía virtual, netnografía
 
 
 
