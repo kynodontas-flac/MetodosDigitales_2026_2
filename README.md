@@ -22,19 +22,19 @@ Teniendo esto en cuenta, el curso se compone de herramientas de muchos tipos par
 
 
 
-### Conceptos fundamentales 
+### Conceptos fundamentales
 
 
 
-- Digitalidad
+Digitalidad
 
-- Ciencia social computacional
+Ciencia social computacional
 
-- Análisis de redes sociales
+Análisis de redes sociales
 
-- Análisis de plataformas y algoritmos
+Análisis de plataformas y algoritmos
 
-- Métodos cualitativos de análisis digital: Etnografía virtual, netnografía
+Métodos cualitativos de análisis digital: Etnografía virtual, netnografía
 
 
 
@@ -47,7 +47,7 @@ Teniendo esto en cuenta, el curso se compone de herramientas de muchos tipos par
 * El(la) estudiante es capaz de elaborar críticas, juicios y análisis propios para debatir alrededor de temas de actualidad digital con argumentos basados en contextos locales, sociohistóricos, técnicos, éticos y políticos.
 * La(el) estudiante es capaz de integrar técnicas y métodos que asisten y aumentan la teoría para motivar y hacer emerger nuevas formas de medición y uso de las tecnologías digitales.
 * El(la) estudiante es capaz de elaborar soluciones metodológicas para entornos investigativos tanto dentro como fuera de la academia en formas innovadoras para contextos actuales y futuros.
-* La(el) estudiante es capaz de narrar y mostrar de manera satisfactoria y clara los procesos, decisiones y conclusiones que resultan de su aplicación metodológica y teórica dentro y fuera de la disciplina sociológica. 
+* La(el) estudiante es capaz de narrar y mostrar de manera satisfactoria y clara los procesos, decisiones y conclusiones que resultan de su aplicación metodológica y teórica dentro y fuera de la disciplina sociológica.
 * El(la) estudiante es capaz de enmarcar los fenómenos digitales en contextos más amplios como parte de procesos sociotécnicos de gran impacto en diferentes dimensiones de la vida.
 * La(el) estudiante es capaz de explicar la vinculación de lo no-humano en la objetivación, resultado y efectos de la digitalidad.
 
@@ -73,7 +73,17 @@ Teniendo esto en cuenta, el curso se compone de herramientas de muchos tipos par
 
 
 
+### Distribución de la clase
 
 
 
+|Hora|Actividad|
+|-|-|
+|2:00-2:30|Presentación del docente y de las lecturas complementarias|
+|2:30-3:30|Discusión de las lecturas|
+|3:30-5:00|Taller|
+
+
+
+Se tendrá en cuenta un descanso de 15 minutos en el medio de la sesión que saldrá del tiempo de la discusión o del taller dependiendo de la progresión de la clase y/o la dificultad del taller.
 
