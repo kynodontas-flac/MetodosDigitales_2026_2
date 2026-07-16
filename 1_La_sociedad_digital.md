@@ -58,7 +58,9 @@ En primer lugar, una discusión nutrida por las situaciones, intereses, habilida
 
 * Lupton, Deborah. 2015. *Digital Sociology. Introduction*. London: Routledge.
 
-Fussey, P., \& Roth, S. (2020). Digitizing Sociology: Continuity and Change in the Internet Era. Sociology, 54(4), 659–674. https://doi.org/10.1177/0038038520918562
+
+
+* Fussey, P., \& Roth, S. (2020). Digitizing Sociology: Continuity and Change in the Internet Era. *Sociology*, 54(4), 659–674. https://doi.org/10.1177/0038038520918562
 
 
 
