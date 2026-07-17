@@ -1,4 +1,4 @@
-# 3\. Redes sociales 1
+# 3\. Redes sociales 1: Rastreo de IPs: Localizando la información, materializando el cómputo (construcción de base de datos).
 
 13/08/26
 
