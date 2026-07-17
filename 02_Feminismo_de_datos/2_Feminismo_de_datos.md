@@ -1,5 +1,4 @@
-# 2\. Feminismo de datos en acción
-
+# 2\. Feminismo de datos en acción: ¿Qué es el software libre? El Homebrew Computer Club VS Microsoft
 6/08/26
 
 
