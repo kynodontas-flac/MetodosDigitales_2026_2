@@ -1,4 +1,4 @@
-1. # La sociedad digital
+#1.  La sociedad digital
 
 30/07/26
 
