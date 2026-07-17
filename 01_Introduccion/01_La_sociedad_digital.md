@@ -40,7 +40,7 @@ En primer lugar, una discusión nutrida por las situaciones, intereses, habilida
 
 
 
-###### Lectura obligatoria
+###### Lecturas obligatorias
 
 * Zuboff, Shoshana . (2019). Capítulo 1, 2 y 3. En *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power* (pp. 10-97). Public Affairs. https://2020.internethealthreport.org/spotlights/labor-rights-unlock-data-power/
 
